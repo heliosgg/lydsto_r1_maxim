@@ -23,7 +23,7 @@
         {
             "sub": "girl_de",
             "name": "Deutsch",
-            "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_de?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=8B3dugIQ7v91BysgkKH7XH+9hJw="
+            "fileName": "https://raw.githubusercontent.com/heliosgg/lydsto_r1_maxim/main/girl_de"
         },
         {
             "sub": "girl_rus",
