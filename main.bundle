@@ -51903,7 +51903,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
         this.setState({
           loading: true
         });
-        var voiceUrl = 'https://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/voice_config.json?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=McR7mhKiKVxtzzf0gi6Af6NyNWA=';
+        var voiceUrl = 'https://raw.githubusercontent.com/heliosgg/lydsto_r1_maxim/main/voice_config.json';
 
         _miot.Host.file.downloadFile(voiceUrl, 'voice_config.json').then(function (res) {
           _miot.Host.file.readFile(res['filename']).then(function (message) {
