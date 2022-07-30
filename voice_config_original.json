@@ -7,12 +7,12 @@
         },
         {
             "sub": "girl_zh",
-            "name": "??",
+            "name": "中文",
             "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_zh?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=ZlvRqcUhvJh55+caFEmxukEp07o="
         },
         {
             "sub": "girl_arab",
-            "name": "????",
+            "name": "عربي",
             "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_ar?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=WXhFdbzPWr/1CGQa9eJefxapOEg="
         },
         {
@@ -27,32 +27,32 @@
         },
         {
             "sub": "girl_rus",
-            "name": "P������",
+            "name": "Pусский",
             "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_ru?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=6Uv9ht2xN494pxMQN5QTVkxvQs4="
         },
         {
             "sub": "girl_fre",
-            "name": "Francais",
+            "name": "Français",
             "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_fr?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=n17aoKnp315kyGPNdRD+D/LwsHg="
         },
         {
             "sub": "girl_ko",
-            "name": "???",
+            "name": "한국어",
             "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_ko?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=bSTq8rZXkH/0c9+Mf88xJTeQfeQ="
         },
         {
             "sub": "girl_jap",
-            "name": "???",
+            "name": "日本語",
             "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_jp?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=iZieYzfU795rDAa02pe3/eA3pYU="
         },
         {
             "sub": "girl_spa",
-            "name": "Espanol",
+            "name": "Español",
             "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_es?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=c18qXhZbfPwk/2fKgXQpR9Vx9nI="
         },
         {
             "sub": "girl_tur",
-            "name": "Turkce",
+            "name": "Türkçe",
             "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_tr?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=DjMdJhQcLDxRKQR8J64kzdl3iQU="
         }
     ],
