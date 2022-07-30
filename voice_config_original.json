@@ -1,0 +1,60 @@
+{
+    "voiceConfig": [
+        {
+            "sub": "girl_en",
+            "name": "English",
+            "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_en?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=XN/V9i6AXcPMpDH4Dzm0/lmNjrs="
+        },
+        {
+            "sub": "girl_zh",
+            "name": "??",
+            "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_zh?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=ZlvRqcUhvJh55+caFEmxukEp07o="
+        },
+        {
+            "sub": "girl_arab",
+            "name": "????",
+            "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_ar?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=WXhFdbzPWr/1CGQa9eJefxapOEg="
+        },
+        {
+            "sub": "girl_pol",
+            "name": "Polish",
+            "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_pl?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=Vuu/DwqYKy56Q6MBKYsA8+EY/aw="
+        },
+        {
+            "sub": "girl_de",
+            "name": "Deutsch",
+            "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_de?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=8B3dugIQ7v91BysgkKH7XH+9hJw="
+        },
+        {
+            "sub": "girl_rus",
+            "name": "Pусский",
+            "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_ru?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=6Uv9ht2xN494pxMQN5QTVkxvQs4="
+        },
+        {
+            "sub": "girl_fre",
+            "name": "Francais",
+            "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_fr?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=n17aoKnp315kyGPNdRD+D/LwsHg="
+        },
+        {
+            "sub": "girl_ko",
+            "name": "???",
+            "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_ko?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=bSTq8rZXkH/0c9+Mf88xJTeQfeQ="
+        },
+        {
+            "sub": "girl_jap",
+            "name": "???",
+            "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_jp?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=iZieYzfU795rDAa02pe3/eA3pYU="
+        },
+        {
+            "sub": "girl_spa",
+            "name": "Espanol",
+            "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_es?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=c18qXhZbfPwk/2fKgXQpR9Vx9nI="
+        },
+        {
+            "sub": "girl_tur",
+            "name": "Turkce",
+            "fileName": "http://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/girl_tr?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=DjMdJhQcLDxRKQR8J64kzdl3iQU="
+        }
+    ],
+    "version": "1"
+}

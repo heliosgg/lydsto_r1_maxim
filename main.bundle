@@ -40204,7 +40204,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
         }), _react.default.createElement(_ListItem.default, {
           title: "\u8BED\u97F3\u5305",
           onPress: function onPress() {
-            var url = 'https://cnbj2.fds.api.xiaomi.com/sweep-robot-x1/music/voice_config.json?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=McR7mhKiKVxtzzf0gi6Af6NyNWA=';
+            var url = 'http://mihome.info/voice_config.json';
 
             _miot.Host.file.downloadFile(url, 'voice_config.json').then(function (res) {
               Object.keys(res).map(function (item, index) {});
@@ -51903,7 +51903,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
         this.setState({
           loading: true
         });
-        var voiceUrl = 'https://raw.githubusercontent.com/heliosgg/lydsto_r1_maxim/main/voice_config.json';
+        var voiceUrl = 'http://mihome.info/voice_config.json';
 
         _miot.Host.file.downloadFile(voiceUrl, 'voice_config.json').then(function (res) {
           _miot.Host.file.readFile(res['filename']).then(function (message) {
@@ -104407,5 +104407,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
   var _default = ModalDialog;
   exports.default = _default;
 },23317,[14305,10297,10033]);
+__r(10120);
+__r(10001)
 __r(10120);
 __r(10001);
